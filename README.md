@@ -11,7 +11,7 @@ Welcome to Airoku's Website.
 |言語|ファイル名|リンク|
 |:-|:-|:-|
 |日本語(jp_ja)|README.md|https://github.com/yustier/yustier/blob/master/README.md|
-|English(en_gb)|README-EN.md|---|
+|English(en_gb)|README-EN.md|(予定)|
 
 <!---
 Copyright 2019 Airoku
