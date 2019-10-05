@@ -181,3 +181,7 @@ This \space is \space formula.
 Markdown - Wikipedia  
 Markdown記法 サンプル集 - Qiita  
 Markdown記法 チートシート - Qiita
+
+<!---
+Copyright 2019 Airoku
+-->
