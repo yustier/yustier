@@ -3,7 +3,7 @@
 Welcome to Airoku's Website.
 
 ## About This Repository (https://github.com/yustier/yustier)
-このリポジトリは，2019年10月N日に[旧ウェブサイト(Wix)](http://bit.ly/airokusite)から移転した藍碌のウェブサイトです．
+このリポジトリは，2019年9月15日に開設し，同年10月N日に[旧ウェブサイト(Wix)](http://bit.ly/airokusite)から移転した藍碌のウェブサイトです．
 
 ## About This File (https://github.com/yustier/yustier/blob/master/README.md)
 このファイルは，このリポジトリについての説明を日本語で記したものです．他言語版については以下を参照してください．
