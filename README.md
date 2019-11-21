@@ -15,7 +15,7 @@ Welcome to Airoku's Website.
 |[RECENT.md](https://github.com/yustier/yustier/blob/master/RECENT.md)|[PORTFOLIO.md](https://github.com/yustier/yustier/blob/master/PORTFOLIO.md)|[JCA.md](https://github.com/yustier/yustier/blob/master/JCA.md)|[STORE.md](https://github.com/yustier/yustier/blob/master/STORE.md)|[DONATE.md](https://github.com/yustier/yustier/blob/master/DONATE.md)|[ABOUT.md](https://github.com/yustier/yustier/blob/master/ABOUT.md)|**README.md**|
 
 
-## 目次
+## Index
 [1 About This Repository](#1-about-this-repository-httpsgithubcomyustieryustier)  
 [2 About This File](#2-about-this-file-httpsgithubcomyustieryustierblobmasterreadmemd)
 
@@ -30,7 +30,7 @@ Welcome to Airoku's Website.
 
 |言語|ファイル名|
 |:-|:-|
-|日本語(jp_ja)|[README.md](https://github.com/yustier/yustier/blob/master/README.md)|
+|日本語(jp_ja)|README.md|
 |English(en_gb)|README-EN.md (予定)|
 
 

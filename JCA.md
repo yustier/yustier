@@ -1,11 +1,17 @@
+## Move to
+|||Here|||||
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|[RECENT.md](https://github.com/yustier/yustier/blob/master/RECENT.md)|[PORTFOLIO.md](https://github.com/yustier/yustier/blob/master/PORTFOLIO.md)|**JCA.md**|[STORE.md](https://github.com/yustier/yustier/blob/master/STORE.md)|[DONATE.md](https://github.com/yustier/yustier/blob/master/DONATE.md)|[ABOUT.md](https://github.com/yustier/yustier/blob/master/ABOUT.md)|[README.md](https://github.com/yustier/yustier/blob/master/README.md)|
+
+
 # all-Japan Close-once-open Association
 __開けたら閉めろ！__
 
 
-![jca_logo_t.png](https://raw.githubusercontent.com/yustier/yustier/yustier/resource/jca_logo_t.png)
+![jca_logo_t.png](https://raw.githubusercontent.com/yustier/yustier/master/resource/jca_logo_t.png)
 
 
-## 目次
+## Index
 [1 動機](#1-動機)  
 [2 活動概要](#2-活動概要)  
 [3 注意すべき事例](#3-注意すべき事例)  
