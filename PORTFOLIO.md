@@ -8,6 +8,9 @@
 藍碌が作ったものについて記す．
 
 
+[Everyone. Nowhere.](https://github.com/yustier/yustier/blob/master/EYNH.md)
+
+
 <!---
 Copyright 2019 Airoku
 -->
