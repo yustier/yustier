@@ -14,8 +14,11 @@
 
 
 ## 1 LINE Stickers
-[可愛い白猫 あいろくちゃん](https://store.line.me/stickershop/product/1424596)  
-[可愛い白猫あいろくちゃん 2](https://store.line.me/stickershop/product/3233708)
+* [可愛い白猫 あいろくちゃん](https://store.line.me/stickershop/product/1424596)
+* [可愛い白猫あいろくちゃん 2](https://store.line.me/stickershop/product/3233708)
+
+
+どちらも藍碌ではなく，Glacier殿によって制作された．
 
 
 ## 2 Badge
@@ -23,5 +26,5 @@
 
 
 <!---
-Copyright 2019 Airoku
+Copyright 2019-2020 Airoku
 -->
