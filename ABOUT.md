@@ -20,11 +20,11 @@
 双子座
 
 
-Minecraft，PCゲーム，iDeviceゲーム，音楽ゲーム，musescoreを好む．  
-鉄道，Chiptune Oscilloscope View，あずまんが大王，通信技術を好む．
-
-
-C++で世界に挨拶した．Illustratorに触ったことがある．
+Minecraft  
+Musescore  
+鉄道  
+通信技術  
+C言語
 
 
 コミュ障．豆腐メンタル．但し修復力が強い．怒るとしつこい．

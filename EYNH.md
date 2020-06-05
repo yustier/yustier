@@ -10,6 +10,9 @@
 
 ![eynh_logo_t.png](https://raw.githubusercontent.com/yustier/yustier/master/resource/eynh_logo_t.png)
 
+[公式ウェブサイト](https://everyonenowhere.wixsite.com/eynh)(公開予定日未定)  
+[公式ツイッター](https://twitter.com/everyonenowhere)
+
 
 Since 2020
 
