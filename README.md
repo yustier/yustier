@@ -1,3 +1,3 @@
 # README.md
 
-[GitHub Pages](https://yustier.github.io)
+See https://i6c.at
