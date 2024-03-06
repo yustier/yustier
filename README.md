@@ -1,3 +1,3 @@
 # README.md
 
-See <https://i6c.at/about>
+See <https://i6c.at/bio>
